@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Yatra1</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/yatra1</source-url>
+   </source-info>
+   <taken-date>2024-04-21T20:16:19.078+05:30</taken-date>
+   <column-names>
+      <column-name>Welcome page</column-name>
+      <column-name>Hotels</column-name>
+      <column-name>Holidays</column-name>
+      <column-name>buses</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Book Flights, Hotels and Holiday Packages",
+      "checked": true
+    },
+    {
+      "value": "Book on India\u0027s Largest Hotel Network",
+      "checked": true
+    },
+    {
+      "value": "Book Domestic and International Holidays",
+      "checked": true
+    },
+    {
+      "value": "Book Bus Tickets",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

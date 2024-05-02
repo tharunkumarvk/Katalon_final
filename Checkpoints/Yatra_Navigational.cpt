@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Yatra_Navigational</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/yatra_navigational</source-url>
+   </source-info>
+   <taken-date>2024-04-21T21:17:15.436+05:30</taken-date>
+   <column-names>
+      <column-name>login</column-name>
+      <column-name>business</column-name>
+      <column-name>travel</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Welcome to Yatra!",
+      "checked": true
+    },
+    {
+      "value": "Welcome to Yatra for Business!",
+      "checked": true
+    },
+    {
+      "value": "Welcome to Yatra for B2B!",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "By proceeding, you agree with our Terms of Service, Privacy Policy \u0026 Master User Agreement.\n",
+      "checked": true
+    },
+    {
+      "value": "Please login to continue",
+      "checked": true
+    },
+    {
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

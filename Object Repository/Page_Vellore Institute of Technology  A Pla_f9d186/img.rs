@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>728751b0-d433-44e8-8ead-ea796a838aaf</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='stick']/div/div/div[2]/div/div/div/a/img</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Vellore Institute of Technology&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>IMAGE</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Vellore Institute of Technology&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>7a84f9c7-412e-45a4-b75f-cb2f4d071776</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/sites/all/themes/vittheme/images/vitlogo.webp</value>
+      <webElementGuid>00c9010a-aab1-410b-83b3-afdc186ab931</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Vellore Institute of Technology</value>
+      <webElementGuid>338d1352-7ce5-4518-9c67-d6ff461d3c8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Vellore Institute of Technology</value>
+      <webElementGuid>eeefea5e-7e33-413f-84f4-e5d7be51d558</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>1516a882-2bb7-4f2b-8792-0e6da05ba019</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;stick&quot;)/div[@class=&quot;menu_pos&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;bck_menu&quot;]/div[@class=&quot;col-md-2 col-sm-2 col-xs-12&quot;]/div[@class=&quot;logo_top&quot;]/a[1]/img[1]</value>
+      <webElementGuid>aad56d7c-ee03-4c2a-a6f6-5243ccafe6ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='stick']/div/div/div[2]/div/div/div/a/img</value>
+      <webElementGuid>14428d76-c9c5-493b-a020-4f24c1e350a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Vellore Institute of Technology']</value>
+      <webElementGuid>a20d79d1-a2b3-4f6c-a946-5767a289e0e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>6cc6f860-db3e-45aa-9c9e-97b499a54b0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/sites/all/themes/vittheme/images/vitlogo.webp' and @title = 'Vellore Institute of Technology' and @alt = 'Vellore Institute of Technology']</value>
+      <webElementGuid>49504d3c-ec9e-4b72-a74f-561318e5ca32</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

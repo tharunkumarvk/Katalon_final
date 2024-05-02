@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Showing 1  24 of 6,649 results for mob_035eab</name>
+   <tag></tag>
+   <elementGuidId>b2234477-c8ac-4451-9da7-da5669c013ae</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.BUOuZu</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div[3]/div/div[2]/div/div/div/span</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>IMAGE</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Showing 1 – 24 of 6,649 results for \&quot;mobile phone\&quot;&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5c0647df-6910-4957-b16e-db7ad5a5b998</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>BUOuZu</value>
+      <webElementGuid>d35e38b9-f379-482c-afe1-489f287abc65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Showing 1 – 24 of 6,649 results for &quot;mobile phone&quot;</value>
+      <webElementGuid>d04358ca-3860-42b9-94cf-48fcffe7d9c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;nt6sNV JxFEK3 _48O0EI&quot;]/div[@class=&quot;DOjaWF YJG4Cf&quot;]/div[@class=&quot;DOjaWF gdgoEp&quot;]/div[@class=&quot;DOjaWF YJG4Cf col-12-12&quot;]/div[@class=&quot;cPHDOP&quot;]/div[@class=&quot;WOvzF4&quot;]/span[@class=&quot;BUOuZu&quot;]</value>
+      <webElementGuid>10d07d3c-2cac-4daf-8580-d189d6b14fa4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div[3]/div/div[2]/div/div/div/span</value>
+      <webElementGuid>0b3e0e2b-39a5-4079-9c79-ab03100d556d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobiles'])[2]/following::span[1]</value>
+      <webElementGuid>3160082a-dc81-4fde-bfe5-43a51db4a754</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobiles &amp; Accessories'])[2]/following::span[1]</value>
+      <webElementGuid>fe9a595a-ae6d-41b9-938e-7268c755ab95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort By'])[1]/preceding::span[2]</value>
+      <webElementGuid>989699de-e710-430e-bc59-9a35393ea1fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Showing 1 – 24 of 6,649 results for &quot;']/parent::*</value>
+      <webElementGuid>74fc8730-817b-4084-89f4-da53e93c0c3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/span</value>
+      <webElementGuid>9e05e301-dab3-427b-92b1-321f2ff5e3fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Showing 1 – 24 of 6,649 results for &quot;mobile phone&quot;' or . = 'Showing 1 – 24 of 6,649 results for &quot;mobile phone&quot;')]</value>
+      <webElementGuid>99d23933-cdd9-47ed-be21-be027aa2525a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

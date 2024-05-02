@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>faileddd</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/Failed_datacheckpoin1</source-url>
+   </source-info>
+   <taken-date>2024-04-21T21:33:18.675+05:30</taken-date>
+   <column-names>
+      <column-name>login</column-name>
+      <column-name>business</column-name>
+      <column-name>travel</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Welcome to Yatra!",
+      "checked": false
+    },
+    {
+      "value": "Welcome to Yatra for Business!",
+      "checked": false
+    },
+    {
+      "value": "uifushfushduiashufh",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "By proceeding, you agree with our Terms of Service, Privacy Policy \u0026 Master User Agreement.\n",
+      "checked": false
+    },
+    {
+      "value": "Please login to continue",
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>
